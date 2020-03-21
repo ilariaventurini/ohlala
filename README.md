@@ -45,3 +45,7 @@ For more detail go to the [ohlala-vscode repository](https://github.com/ilariave
 3. Click the `customize your theme and share it with others` link
 4. Paste `#161922,#2F3237,#9B6DFF,#FFFFFF,#E6608D,#FFFFFF,#51FBDE,#00B2FF`
 5. Close the edit mode clicking on the `x` button in upper right corner.
+
+# License
+
+[MIT](https://github.com/ilariaventurini/ohlala/blob/master/LICENSE) © [Ilaria Venturini](https://github.com/ilariaventurini)
