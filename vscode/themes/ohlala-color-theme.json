@@ -927,7 +927,7 @@
     // Color for untracked Git resources. Used for file labels and the SCM viewlet.
     "gitDecoration.untrackedResourceForeground": "#37E7AC",
     // Color for ignored Git resources. Used for file labels and the SCM viewlet.
-    "gitDecoration.ignoredResourceForeground": "#FED604",
+    "gitDecoration.ignoredResourceForeground": "#80818280",
     // Color for conflicting Git resources. Used for file labels and the SCM viewlet.
     "gitDecoration.conflictingResourceForeground": "#FF6B9D",
     // Color for submodule resources.
