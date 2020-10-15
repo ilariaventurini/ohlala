@@ -3,6 +3,10 @@
   "version": "1.0.12",
   "publisher": "ilariaventurini",
   "icon": "assets/logo_square.png",
+  "galleryBanner": {
+    "color": "#9B6DFF",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.42.0"
   },
