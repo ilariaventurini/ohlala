@@ -1,3 +1,0 @@
-[submodule "vscode"]
-	path = vscode
-	url = git@github.com:ilariaventurini/ohlala-vscode.git
