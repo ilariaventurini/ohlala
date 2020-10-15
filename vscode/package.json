@@ -2,6 +2,7 @@
   "name": "ohlala",
   "version": "1.0.12",
   "publisher": "ilariaventurini",
+  "icon": "assets/logo_square.png",
   "engines": {
     "vscode": "^1.42.0"
   },
