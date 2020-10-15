@@ -1,11 +1,10 @@
+<div align="center" style="text-align: center;">
 
-<p align="center">
-  <a href="https://github.com/ilariaventurini/ohlala">
-    <img alt="ohlala-logo" src="./assets/logo.png" width="700px">
-  </a>
-</p>
+  ![logo](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/logo.png)
 
-<center>A fresh dark theme for VS Code.</center><br/>
+  🌈 A fresh dark theme for [VS Code](https://code.visualstudio.com/).
+
+</div>
 
 <p align="center">
   <!-- marketplace version 
@@ -20,11 +19,11 @@
 
 **JSX**
 
-![JSX](./assets/jsx.png)
+![JSX](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/jsx.png)
 
 **Markdown, CSS, HTML, Typescript/Javascript**
 
-![Markdown, CSS, HTML, Typescript/Javascript](./assets/markdown-css-html-typescript.png)
+![Markdown, CSS, HTML, Typescript/Javascript](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/markdown-css-html-typescript.png)
 
 ## 🌈 Color palette
 
@@ -32,18 +31,18 @@ Main colors:
 
 | Color    | Hex       | RGB             | HSL               | 🎨          |
 | :------- | :-------: | :-------------: | :---------------: | :---------: |
-| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](./assets/green.png) |
-| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](./assets/cyan.png) |
-| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](./assets/blue.png) |
-| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](./assets/purple.png) |
-| lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](./assets/lavender.png) |
-| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](./assets/pink.png) |
-| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](./assets/rose.png) |
-| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](./assets/orange.png) |
-| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](./assets/yellow.png) |
-| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](./assets/gray-01.png) |
-| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](./assets/gray-02.png) |
-| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](./assets/gray-09.png) |
+| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/green.png) |
+| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/cyan.png) |
+| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/blue.png) |
+| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/purple.png) |
+| lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/lavender.png) |
+| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/pink.png) |
+| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/rose.png) |
+| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/orange.png) |
+| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/yellow.png) |
+| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-01.png) |
+| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-02.png) |
+| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-09.png) |
 
 ## ⚙️ Installation
 

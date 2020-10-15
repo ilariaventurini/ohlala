@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-  ![logo](./vscode/assets/logo.png)
+  ![logo](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/logo.png)
 
   🌈 A fresh dark theme for [VS Code](https://code.visualstudio.com/), [iTerm](https://www.iterm2.com/) and [Slack](https://slack.com/).
 
@@ -8,10 +8,29 @@
 
 ---
 
+# 🌈 Color palette
+
+Main colors:
+
+| Color    | Hex       | RGB             | HSL               | 🎨          |
+| :------- | :-------: | :-------------: | :---------------: | :---------: |
+| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/green.png) |
+| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/cyan.png) |
+| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/blue.png) |
+| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/purple.png) |
+| lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/lavender.png) |
+| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/pink.png) |
+| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/rose.png) |
+| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/orange.png) |
+| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/yellow.png) |
+| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-01.png) |
+| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-02.png) |
+| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-09.png) |
+
 # VS Code
 
-![VSCode JSX](./vscode/assets/jsx.png)
-![VSCode Markdown CSS HTML Typescript](./vscode/assets/markdown-css-html-typescript.png)
+![VSCode JSX](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/jsx.png)
+![VSCode Markdown CSS HTML Typescript](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/markdown-css-html-typescript.png)
 
 1. Open the **Extensions** sidebar
 2. Search for `Ohlala`
@@ -19,13 +38,13 @@
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧ ⌘ P` or go to `View → Command Palette...`
 5. Select **Preferences: Color Theme** and choose `Ohlala`.
 
-For more detail go [here](https://github.com/ilariaventurini/ohlala/tree/master/vscode).
+For more details go [here](https://github.com/ilariaventurini/ohlala/tree/master/vscode).
 
 ---
 
 # iTerm
 
-![iTerm](./vscode/assets/iTerm.png)
+![iTerm](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/iTerm.png)
 
 1. Go to `iTerm2 → Preferences` then `Profiles → Colors` tab
 2. Click on`Load Presets...`
@@ -37,8 +56,8 @@ For more detail go [here](https://github.com/ilariaventurini/ohlala/tree/master/
 
 # Slack
 
-![Slack light](./vscode/assets/slack-light.png)
-![Slack dark](./vscode/assets/slack-dark.png)
+![Slack light](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/slack-light.png)
+![Slack dark](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/slack-dark.png)
 
 1. Click on your workspace name and click on `Preferences`
 2. Select `Sidebar`
