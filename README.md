@@ -8,7 +8,7 @@
 
 ---
 
-# 🌈 Color palette
+# Color palette
 
 Main colors:
 
