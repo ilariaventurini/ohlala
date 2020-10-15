@@ -1,2 +1,14 @@
-node_modules
-src
+# dependencies
+node_modules/
+
+# misc
+.cache/
+
+# npm and yarn log
+*.log
+
+# vsc packages
+*.vsix
+
+# vscode launch folder
+vscode/.vscode

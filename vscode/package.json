@@ -1,0 +1,43 @@
+{
+  "name": "ohlala-vscode",
+  "version": "1.0.11",
+  "publisher": "ilariaventurini",
+  "engines": {
+    "vscode": "^1.42.0"
+  },
+  "displayName": "Ohlala",
+  "description": "A fresh dark theme for VS Code",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ohlala",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ohlala-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ilariaventurini/ohlala.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ilariaventurini/ohlala/issues"
+  },
+  "homepage": "https://github.com/ilariaventurini/ohlala",
+  "author": {
+    "name": "Ilaria Venturini",
+    "email": "venturini.ila@gmail.com",
+    "url": "https://github.com/ilariaventurini"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vscode",
+    "theme",
+    "color-theme",
+    "dark"
+  ],
+  "private": false
+}
