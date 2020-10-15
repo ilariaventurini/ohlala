@@ -1,6 +1,6 @@
 <div align="center" style="text-align: center;">
 
-  ![logo](./assets/logo.png)
+  ![logo](./vscode/assets/logo.png)
 
   🌈 A fresh dark theme for [VS Code](https://code.visualstudio.com/), [iTerm](https://www.iterm2.com/) and [Slack](https://slack.com/).
 
@@ -10,22 +10,22 @@
 
 # VS Code
 
-![VSCode JSX](./assets/jsx.png)
-![VSCode Markdown CSS HTML Typescript](./assets/markdown-css-html-typescript.png)
+![VSCode JSX](./vscode/assets/jsx.png)
+![VSCode Markdown CSS HTML Typescript](./vscode/assets/markdown-css-html-typescript.png)
 
 1. Open the **Extensions** sidebar
-2. Search for `Ohlala theme`
+2. Search for `Ohlala`
 3. Click on **Install**
 4. Open the **Command Palette** with `Ctrl+Shift+P` or `⇧ ⌘ P` or go to `View → Command Palette...`
-5. Select **Preferences: Color Theme** and choose `Ohlala theme`.
+5. Select **Preferences: Color Theme** and choose `Ohlala`.
 
-For more detail go to the [ohlala-vscode repository](https://github.com/ilariaventurini/ohlala-vscode).
+For more detail go [here](https://github.com/ilariaventurini/ohlala/tree/master/vscode).
 
 ---
 
 # iTerm
 
-![iTerm](./assets/iTerm.png)
+![iTerm](./vscode/assets/iTerm.png)
 
 1. Go to `iTerm2 → Preferences` then `Profiles → Colors` tab
 2. Click on`Load Presets...`
@@ -37,8 +37,8 @@ For more detail go to the [ohlala-vscode repository](https://github.com/ilariave
 
 # Slack
 
-![Slack light](./assets/slack-light.png)
-![Slack dark](./assets/slack-dark.png)
+![Slack light](./vscode/assets/slack-light.png)
+![Slack dark](./vscode/assets/slack-dark.png)
 
 1. Click on your workspace name and click on `Preferences`
 2. Select `Sidebar`
