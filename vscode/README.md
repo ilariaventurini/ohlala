@@ -7,10 +7,20 @@
 </div>
 
 <p align="center">
-  <!-- marketplace version 
-  <a href="https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala-theme&ssr=false#overview">
-    <img alt="marketplace version" src="https://img.shields.io/vscode-marketplace/v/ilariaventurini.ohlala-theme.svg?maxAge=3600&style=flat-square&labelColor=1F2330&color=9B6DFF">
-  </a>-->
+  <!-- marketplace version -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala">
+    <img alt="vsm-version" src="https://img.shields.io/visual-studio-marketplace/v/ilariaventurini.ohlala?style=flat-square&label=VS%20Marketplace&logo=visual-studio-code&labelColor=1F2330&color=9B6DFF"/>
+  </a>
+
+  <!-- marketplace downloads -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala">
+    <img alt="vsm-downloads" src="https://img.shields.io/visual-studio-marketplace/d/ilariaventurini.ohlala?style=flat-square&label=downloads&logo=visual-studio-code&labelColor=1F2330&color=9B6DFF"/>
+  </a>
+
+  <!-- marketplace rating -->
+  <a href="https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala">
+    <img alt="vsm-rating" src="https://img.shields.io/visual-studio-marketplace/r/ilariaventurini.ohlala?style=flat-square&label=rating&logo=visual-studio-code&labelColor=1F2330&color=9B6DFF"/>
+  </a>
 </p>
 
 ---

@@ -27,10 +27,7 @@ Main colors:
 | gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-02.png) |
 | gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-09.png) |
 
-# VS Code
-
-![VSCode JSX](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/jsx.png)
-![VSCode Markdown CSS HTML Typescript](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/markdown-css-html-typescript.png)
+# VS Code [![vsm-version](https://img.shields.io/visual-studio-marketplace/v/ilariaventurini.ohlala?style=flat-square&label=VS%20Marketplace&logo=visual-studio-code&labelColor=1F2330&color=9B6DFF)](https://marketplace.visualstudio.com/items?itemName=ilariaventurini.ohlala)
 
 1. Open the **Extensions** sidebar
 2. Search for `Ohlala`
