@@ -1102,6 +1102,75 @@
     // "debugIcon.continueForeground": "#FFFFFF00",
     // Debug toolbar icon for step back.
     // "debugIcon.stepBackForeground": "#FFFFFF00",
+
+    // //////////////////////////////
+    // // APRIL 2020 (v1_45)
+    // // New theme colors for editor tabs:
+    // //////////////////////////////
+    // // Inactive tab background color in an unfocused group
+    // "tab.unfocusedInactiveBackground": "#FFFFFF00",
+    // // Tab foreground color when hovering
+    // "tab.hoverForeground": "#FFFFFF00",
+    // // Tab foreground color in an unfocused group when hovering
+    // "tab.unfocusedHoverForeground": "#FFFFFF00",
+
+
+    // //////////////////////////////
+    // // MAY 2020 (v1_46)
+    // // Debug console theme colors:
+    // //////////////////////////////
+    // // Foreground color for info messages in Debug Console
+    // "debugConsole.infoForeground": "#FFFFFF00",
+    // // Foreground color for warning messages in Debug Console
+    // "debugConsole.warningForeground": "#FFFFFF00",
+    // // Foreground color for error messages in Debug Console
+    // "debugConsole.errorForeground": "#FFFFFF00",
+    // // Foreground color for source filenames in Debug Console
+    // "debugConsole.sourceForeground": "#FFFFFF00",
+    // // Foreground color for Debug Console input marker icon
+    // "debugConsoleInputIcon.foreground": "#FFFFFF00",
+
+    // // Foreground color for active input options. These appear in the Search view and Find widget (editor, terminal, debug console)
+    // "inputOption.activeForeground": "#FFFFFF00",
+
+    // //////////////////////////////
+    // // JUNE 2020 (v1_47)
+    // // Notebook color tokens:
+    // //////////////////////////////
+    // // The border color for Notebook cells
+    // "notebook.cellBorderColor": "#FFFFFF00",
+    // // The background color of a cell when the cell is hovered
+    // "notebook.cellHoverBackground": "#FFFFFF00",
+    // // The color of the Notebook cell insertion indicator
+    // "notebook.cellInsertionIndicator": "#FFFFFF00",
+    // // The background color of a cell when the cell is focused
+    // "notebook.focusedCellBackground": "#FFFFFF00",
+    // // The color of the cell's top and bottom border when the cell is focused
+    // "notebook.focusedCellBorder": "#FFFFFF00",
+    // // The color of the Notebook cell editor border
+    // "notebook.focusedEditorBorder": "#FFFFFF00",
+
+    // //////////////////////////////
+    // // SEPTEMBER 2020 (v1_50)
+    // // New features:
+    // //////////////////////////////
+    // // Border on the right of the last pinned editor to separate from unpinned editors.
+    // "tab.lastPinnedBorder": "#FFFFFF00",
+    // // Foreground color for staged deletions git decorations.
+    // "gitDecoration.stageDeletedResourceForeground": "#FFFFFF00",
+    // // Foreground color for staged modifications git decorations.
+    // "gitDecoration.stageModifiedResourceForeground": "#FFFFFF00",
+    // // Colors intended to be used by data visualization extensions.
+    // "charts.red": "#FFFFFF00",
+    // "charts.blue": "#FFFFFF00",
+    // "charts.yellow": "#FFFFFF00",
+    // "charts.orange": "#FFFFFF00",
+    // "charts.green": "#FFFFFF00",
+    // "charts.purple": "#FFFFFF00",
+    // "charts.foreground": "#FFFFFF00",
+    // "charts.lines": "#FFFFFF00",
+
+
 	},
 	"tokenColors": [
     //////////////////////////////
