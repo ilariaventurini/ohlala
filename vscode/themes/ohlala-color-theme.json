@@ -208,8 +208,6 @@
     // Activity Bar background color.
     "activityBar.background": "#161922",
     // Drag and drop feedback color for the Activity Bar items.
-    "activityBar.dropBackground": "#9B6DFF4D",
-    // Activity Bar foreground color (for example used for the icons).
     "activityBar.foreground": "#808182",
     // Activity Bar item foreground color when it is inactive.
     "activityBar.inactiveForeground": "#80818299",
@@ -685,8 +683,6 @@
     "panel.background": "#252A32",
     // Panel border color to separate the panel from the editor.
     "panel.border": "#2F3237",
-    // Drag and drop feedback color for the panel title items. The color should have transparency so that the panel entries can still shine through.
-    "panel.dropBackground": "#9B6DFF4D",
     // Border color for the active panel title.
     "panelTitle.activeBorder": "#9B6DFF",
     // Title color for the active panel.
