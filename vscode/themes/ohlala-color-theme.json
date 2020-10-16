@@ -279,8 +279,10 @@
     // "editorGroupHeader.noTabsBackground": "#FFFFFF00",
     // Background color of the Tabs container    
     "editorGroupHeader.tabsBackground": "#252A32",
-    // Border color of the editor group title header when tabs are enabled    
-    "editorGroupHeader.tabsBorder": "#1F2330",
+    // Render a border above breadcrumbs
+    // "editorGroupHeader.tabsBorder": "#FFFFFF00",
+    // Render a border below the editor group header (for example, below breadcrumbs if enabled)
+    "editorGroupHeader.border": "#1F2330",
     // Background color of an empty editor group    
     // "editorGroup.emptyBackground": "#FFFFFF00",
     // Border color of an empty editor group that is focused    
