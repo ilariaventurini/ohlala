@@ -1131,10 +1131,9 @@
     // Foreground color for Debug Console input marker icon
     "debugConsoleInputIcon.foreground": "#9B6DFF",
 
-    // //////////////////////////////
-    // // JUNE 2020 (v1_47)
-    // // Notebook color tokens:
-    // //////////////////////////////
+    //////////////////////////////
+    // NOTEBOOK COLOR TOKENS
+    //////////////////////////////
     // // The border color for Notebook cells
     // "notebook.cellBorderColor": "#FFFFFF00",
     // // The background color of a cell when the cell is hovered
@@ -1148,11 +1147,9 @@
     // // The color of the Notebook cell editor border
     // "notebook.focusedEditorBorder": "#FFFFFF00",
 
-    // //////////////////////////////
-    // // SEPTEMBER 2020 (v1_50)
-    // // New features:
-    // //////////////////////////////
-    // Colors intended to be used by data visualization extensions.
+    //////////////////////////////
+    // COLORS INTENDED TO BE USED BY DATA VISUALIZATION EXTENSIONS
+    //////////////////////////////
     // "charts.red": "#FFFFFF00",
     // "charts.blue": "#FFFFFF00",
     // "charts.yellow": "#FFFFFF00",
@@ -1161,8 +1158,6 @@
     // "charts.purple": "#FFFFFF00",
     // "charts.foreground": "#FFFFFF00",
     // "charts.lines": "#FFFFFF00",
-
-
 	},
 	"tokenColors": [
     //////////////////////////////
