@@ -329,6 +329,12 @@
     // "tab.unfocusedInactiveModifiedBorder": "#FFFFFF00",
     // Background color of the editor pane visible on the left and right side of the centered editor layout.
     // "editorPane.background": "#FFFFFF00",
+    // Inactive tab background color in an unfocused group
+    "tab.unfocusedInactiveBackground": "#1F2330",
+    // Tab foreground color when hovering
+    "tab.hoverForeground": "#D9E0E880",
+    // Tab foreground color in an unfocused group when hovering
+    "tab.unfocusedHoverForeground": "#D9E0E880",
 
     //////////////////////////////
     // EDITOR COLORS
@@ -1102,18 +1108,6 @@
     // "debugIcon.continueForeground": "#FFFFFF00",
     // Debug toolbar icon for step back.
     // "debugIcon.stepBackForeground": "#FFFFFF00",
-
-    //////////////////////////////
-    // APRIL 2020 (v1_45)
-    // New theme colors for editor tabs:
-    //////////////////////////////
-    // Inactive tab background color in an unfocused group
-    "tab.unfocusedInactiveBackground": "#1F2330",
-    // Tab foreground color when hovering
-    "tab.hoverForeground": "#D9E0E880",
-    // Tab foreground color in an unfocused group when hovering
-    "tab.unfocusedHoverForeground": "#D9E0E880",
-
 
     // //////////////////////////////
     // // MAY 2020 (v1_46)
