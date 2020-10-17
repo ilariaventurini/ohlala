@@ -1113,20 +1113,19 @@
     // Debug toolbar icon for step back.
     // "debugIcon.stepBackForeground": "#FFFFFF00",
 
-    // //////////////////////////////
-    // // MAY 2020 (v1_46)
-    // // Debug console theme colors:
-    // //////////////////////////////
-    // // Foreground color for info messages in Debug Console
-    // "debugConsole.infoForeground": "#FFFFFF00",
-    // // Foreground color for warning messages in Debug Console
-    // "debugConsole.warningForeground": "#FFFFFF00",
-    // // Foreground color for error messages in Debug Console
-    // "debugConsole.errorForeground": "#FFFFFF00",
-    // // Foreground color for source filenames in Debug Console
-    // "debugConsole.sourceForeground": "#FFFFFF00",
-    // // Foreground color for Debug Console input marker icon
-    // "debugConsoleInputIcon.foreground": "#FFFFFF00",
+    //////////////////////////////
+    // DEBUG CONSOLE THEME COLORS
+    //////////////////////////////
+    // Foreground color for info messages
+    "debugConsole.infoForeground": "#FED604",
+    // Foreground color for warning messages
+    "debugConsole.warningForeground": "#FF9970",
+    // Foreground color for error messages
+    "debugConsole.errorForeground": "#FF6B9D",
+    // Foreground color for source filenames
+    "debugConsole.sourceForeground": "#808182",
+    // Foreground color for Debug Console input marker icon
+    "debugConsoleInputIcon.foreground": "#9B6DFF",
 
     // //////////////////////////////
     // // JUNE 2020 (v1_47)
