@@ -9,6 +9,3 @@ node_modules/
 
 # vsc packages
 *.vsix
-
-# vscode launch folder
-vscode/.vscode
