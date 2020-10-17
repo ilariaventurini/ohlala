@@ -1158,6 +1158,33 @@
     // "charts.purple": "#FFFFFF00",
     // "charts.foreground": "#FFFFFF00",
     // "charts.lines": "#FFFFFF00",
+
+    // //////////////////////////////
+    // // DEBUG VIEW
+    // //////////////////////////////
+    // // Foreground color for a label shown in the CALL STACK view when the debugger breaks on an exception
+    // "debugView.exceptionLabelForeground": "#FFFFFF00",
+    // // Background color for a label shown in the CALL STACK view when the debugger breaks on an exception
+    // "debugView.exceptionLabelBackground": "#FFFFFF00",
+    // // Foreground color for a label in the CALL STACK view showing the current session's or thread's state
+    // "debugView.stateLabelForeground": "#FFFFFF00",
+    // // Background color for a label in the CALL STACK view showing the current session's or thread's state
+    // "debugView.stateLabelBackground": "#FFFFFF00",
+    // // Color used to highlight value changes in the Debug views (for example, the Variables view)
+    // "debugView.valueChangedHighlight": "#FFFFFF00",
+    // // Foreground color for the token names shown in Debug views (for example, the Variables or Watch view)
+    // "debugTokenExpression.name": "#FFFFFF00",
+    // // Foreground color for the token values shown in Debug views
+    // "debugTokenExpression.value": "#FFFFFF00",
+    // // Foreground color for strings in Debug views
+    // "debugTokenExpression.string": "#FFFFFF00",
+    // // Foreground color for booleans in Debug views
+    // "debugTokenExpression.boolean": "#FFFFFF00",
+    // // Foreground color for numbers in Debug views
+    // "debugTokenExpression.number": "#FFFFFF00",
+    // // Foreground color for expression errors in Debug views
+    // "debugTokenExpression.error": "#FFFFFF00",
+
 	},
 	"tokenColors": [
     //////////////////////////////
