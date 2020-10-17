@@ -1103,16 +1103,16 @@
     // Debug toolbar icon for step back.
     // "debugIcon.stepBackForeground": "#FFFFFF00",
 
-    // //////////////////////////////
-    // // APRIL 2020 (v1_45)
-    // // New theme colors for editor tabs:
-    // //////////////////////////////
-    // // Inactive tab background color in an unfocused group
-    // "tab.unfocusedInactiveBackground": "#FFFFFF00",
-    // // Tab foreground color when hovering
-    // "tab.hoverForeground": "#FFFFFF00",
-    // // Tab foreground color in an unfocused group when hovering
-    // "tab.unfocusedHoverForeground": "#FFFFFF00",
+    //////////////////////////////
+    // APRIL 2020 (v1_45)
+    // New theme colors for editor tabs:
+    //////////////////////////////
+    // Inactive tab background color in an unfocused group
+    "tab.unfocusedInactiveBackground": "#1F2330",
+    // Tab foreground color when hovering
+    "tab.hoverForeground": "#D9E0E880",
+    // Tab foreground color in an unfocused group when hovering
+    "tab.unfocusedHoverForeground": "#D9E0E880",
 
 
     // //////////////////////////////
