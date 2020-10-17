@@ -335,6 +335,8 @@
     "tab.hoverForeground": "#D9E0E880",
     // Tab foreground color in an unfocused group when hovering
     "tab.unfocusedHoverForeground": "#D9E0E880",
+    // Border on the right of the last pinned editor to separate from unpinned editors.
+    "tab.lastPinnedBorder": "#80818240",
 
     //////////////////////////////
     // EDITOR COLORS
@@ -1148,8 +1150,6 @@
     // // SEPTEMBER 2020 (v1_50)
     // // New features:
     // //////////////////////////////
-    // // Border on the right of the last pinned editor to separate from unpinned editors.
-    // "tab.lastPinnedBorder": "#FFFFFF00",
     // // Foreground color for staged deletions git decorations.
     // "gitDecoration.stageDeletedResourceForeground": "#FFFFFF00",
     // // Foreground color for staged modifications git decorations.
