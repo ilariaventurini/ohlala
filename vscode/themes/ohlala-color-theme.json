@@ -123,6 +123,8 @@
     // "inputValidation.warningForeground": "#FFFFFF00",
     // Input validation border color for warning severity.
     // "inputValidation.warningBorder": "#FFFFFF00",
+    // Foreground color for active input options. These appear in the Search view and Find widget (editor, terminal, debug console)
+    "inputOption.activeForeground": "#D9E0E8",
 
     //////////////////////////////
     // SCROLLBAR CONTROL
@@ -1125,9 +1127,6 @@
     // "debugConsole.sourceForeground": "#FFFFFF00",
     // // Foreground color for Debug Console input marker icon
     // "debugConsoleInputIcon.foreground": "#FFFFFF00",
-
-    // // Foreground color for active input options. These appear in the Search view and Find widget (editor, terminal, debug console)
-    // "inputOption.activeForeground": "#FFFFFF00",
 
     // //////////////////////////////
     // // JUNE 2020 (v1_47)
