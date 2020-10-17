@@ -209,7 +209,7 @@
     //////////////////////////////
     // Activity Bar background color.
     "activityBar.background": "#161922",
-    // Drag and drop feedback color for the Activity Bar items.
+    // Activity Bar foreground color (for example used for the icons).
     "activityBar.foreground": "#808182",
     // Activity Bar item foreground color when it is inactive.
     "activityBar.inactiveForeground": "#80818299",
