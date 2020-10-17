@@ -940,6 +940,10 @@
     "gitDecoration.conflictingResourceForeground": "#FF6B9D",
     // Color for submodule resources.
     "gitDecoration.submoduleResourceForeground": "#FF9970",
+    // Foreground color for staged deletions git decorations.
+    "gitDecoration.stageDeletedResourceForeground": "#9B6DFF",
+    // Foreground color for staged modifications git decorations.
+    "gitDecoration.stageModifiedResourceForeground": "#51FBDE",
     
     //////////////////////////////
     // SETTINGS EDITOR COLORS
@@ -1148,11 +1152,7 @@
     // // SEPTEMBER 2020 (v1_50)
     // // New features:
     // //////////////////////////////
-    // // Foreground color for staged deletions git decorations.
-    // "gitDecoration.stageDeletedResourceForeground": "#FFFFFF00",
-    // // Foreground color for staged modifications git decorations.
-    // "gitDecoration.stageModifiedResourceForeground": "#FFFFFF00",
-    // // Colors intended to be used by data visualization extensions.
+    // Colors intended to be used by data visualization extensions.
     // "charts.red": "#FFFFFF00",
     // "charts.blue": "#FFFFFF00",
     // "charts.yellow": "#FFFFFF00",
