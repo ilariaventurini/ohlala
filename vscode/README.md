@@ -189,6 +189,15 @@ Some examples:
 
 To learn more about scopes, check out the [color theme documentation](https://code.visualstudio.com/api/references/theme-color).
 
+## Remove the older ohlala theme extensions
+
+To completely remove the two old extensions published on the Marketplace and now no longer present (therefore not uninstallable), go to:
+
+- MacOs / Linux: `~/.vscode/extensions`
+- Windows: `%USER%\\.vscode\extensions` or `%USERPROFILE%\.vscode\extensions`
+
+and delete the folders `ilariaventurini.ohlala-theme-1.0.8` and `ilariaventurini.ohlala-vscode-1.0.10`.
+
 ## License
 
 [MIT](https://github.com/ilariaventurini/ohlala/blob/master/vscode/LICENSE) © [Ilaria Venturini](https://github.com/ilariaventurini)
