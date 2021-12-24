@@ -12,6 +12,7 @@
   },
   "displayName": "Ohlala",
   "description": "A fresh dark theme for VS Code",
+  "preview": true,
   "categories": [
     "Themes"
   ],
@@ -44,5 +45,14 @@
     "color-theme",
     "dark"
   ],
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "vsce": "^1.100.1"
+  },
+  "scripts": {
+    "start": "nodemon --watch src src/index.js",
+    "build": "node src/index.js && mkdir -p build",
+    "prepublishOnly": "npm run build && vsce publish"
+  }
 }
