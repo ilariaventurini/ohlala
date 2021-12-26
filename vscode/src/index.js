@@ -3,7 +3,7 @@ const getTheme = require('./theme')
 
 const ohlalaTheme = getTheme({
   theme: 'dark',
-  name: 'GitHub Dark Default',
+  name: 'Ohlala theme',
 })
 
 // write theme
