@@ -39,20 +39,20 @@
 
 Main colors:
 
-| Color    | Hex       | RGB             | HSL               | 🎨          |
-| :------- | :-------: | :-------------: | :---------------: | :---------: |
-| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  | ![green](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/green.png) |
-| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  | ![cyan](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/cyan.png) |
-| blue     | `#00B2FF` | `0, 178, 255`   | `198°, 100%, 50%` | ![blue](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/blue.png) |
-| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  | ![purple](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/purple.png) |
+| Color    |    Hex    |       RGB       |        HSL        |                                                    🎨                                                    |
+| :------- | :-------: | :-------------: | :---------------: | :-----------------------------------------------------------------------------------------------------: |
+| green    | `#37E7AC` | `55, 231, 172`  | `160°, 61%, 56%`  |    ![green](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/green.png)    |
+| cyan     | `#51FBDE` | `81, 251, 222`  | `170°, 51%, 65%`  |     ![cyan](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/cyan.png)     |
+| blue     | `#00B2FF` |  `0, 178, 255`  | `198°, 100%, 50%` |     ![blue](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/blue.png)     |
+| purple   | `#9A89B4` | `154, 137, 180` | `264°, 13%, 62%`  |   ![purple](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/purple.png)   |
 | lavender | `#9B6DFF` | `155, 109, 255` | `259°, 39%, 71%`  | ![lavender](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/lavender.png) |
-| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  | ![pink](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/pink.png) |
-| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  | ![rose](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/rose.png) |
-| orange   | `#FF9970` | `255, 153, 112` | `17°, 38%, 72%`   | ![orange](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/orange.png) |
-| yellow   | `#FED604` | `254, 214, 4`   | `50°, 97%, 51%`   | ![yellow](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/yellow.png) |
-| gray-01  | `#D9E0E8` | `217, 224, 232` | `212°, 2%, 88%`   | ![gray-01](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-01.png) |
-| gray-02  | `#808182` | `128, 129, 130` | `210°, 0%, 51%`   | ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-02.png) |
-| gray-09  | `#1F2330` | `31, 35, 48`    | `226°, 21%, 15%`  | ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-09.png) |
+| pink     | `#FF5CD3` | `255, 92, 211`  | `316°, 46%, 68%`  |     ![pink](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/pink.png)     |
+| rose     | `#FF6B9D` | `255, 107, 157` | `340°, 40%, 71%`  |     ![rose](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/rose.png)     |
+| orange   | `#FF9970` | `255, 153, 112` |  `17°, 38%, 72%`  |   ![orange](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/orange.png)   |
+| yellow   | `#FED604` |  `254, 214, 4`  |  `50°, 97%, 51%`  |   ![yellow](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/yellow.png)   |
+| gray-01  | `#D9E0E8` | `217, 224, 232` |  `212°, 2%, 88%`  |  ![gray-01](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-01.png)  |
+| gray-02  | `#808182` | `128, 129, 130` |  `210°, 0%, 51%`  |  ![gray-02](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-02.png)  |
+| gray-09  | `#1F2330` |  `31, 35, 48`   | `226°, 21%, 15%`  |  ![gray-09](https://raw.githubusercontent.com/ilariaventurini/ohlala/master/vscode/assets/gray-09.png)  |
 
 ## ⚙️ Installation
 
@@ -66,10 +66,6 @@ Main colors:
 ## 🙈 Language support
 
 I develop mainly in *React*, *HTML*, *CSS*, *Javascript* and *Typescript* so for this set of languages, the theme should look pretty good but maybe there be problems for other not tested languages. 👇
-
-## 🐛 Issues & contributing
-
-This theme is still in progress. Anyway, if you open an issue (or a PR), I will be happy :)
 
 ## 🐡 Customization
 
@@ -197,6 +193,20 @@ To completely remove the two old extensions published on the Marketplace and now
 - Windows: `%USER%\\.vscode\extensions` or `%USERPROFILE%\.vscode\extensions`
 
 and delete the folders `ilariaventurini.ohlala-theme-1.0.8` and `ilariaventurini.ohlala-vscode-1.0.10`.
+
+## 🐛 Issues & contributing
+
+This theme is still in progress. Anyway, if you open an issue (or a PR), I will be happy :)
+
+1. Clone and open this [repo](https://github.com/ilariaventurini/ohlala) in VSCode
+2. Run `yarn` to install the dependencies
+3. Press `F5` to open a new window with your extension loaded
+4. Open `Code > Preferences > Color Theme` [`⌘k ⌘t`] and pick the `Ohlala` theme
+5. Make changes to the `/src/theme.js` file
+    - **UI**: For all changes to the "outer UI", like (status bar, file navigation etc.), take a look at the [Theme Color](https://code.visualstudio.com/api/references/theme-color) reference
+    - **Syntax**: For changes to the "code highlighting", examine the syntax scopes by invoking the [`Developer: Inspect Editor Tokens and Scopes`](https://code.visualstudio.com/api/language-extensions/syntax-highlight-guide#scope-inspector) command from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac) in the Extension Development Host window.
+6. Run `yarn build` to update the theme. You can also run `yarn start` instead to automatically rebuild the theme while making changes and no reloading should be necessary.
+7. Once you're happy, commit your changes and open a PR.
 
 ## License
 
