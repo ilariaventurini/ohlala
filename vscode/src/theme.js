@@ -149,11 +149,11 @@ function getTheme({ theme, name }) {
       // Scrollbar slider shadow to indicate that the view is scrolled.
       'scrollbar.shadow': hex(colors.gray09),
       // Scrollbar slider background color when clicked on.
-      'scrollbarSlider.activeBackground': hex(hex(colors.gray01), 0.2),
+      'scrollbarSlider.activeBackground': hex(colors.gray01, 0.2),
       // Scrollbar slider background color.
-      'scrollbarSlider.background': hex(hex(colors.gray01), 0.1),
+      'scrollbarSlider.background': hex(colors.gray01, 0.1),
       // Scrollbar slider background color when hovering.
-      'scrollbarSlider.hoverBackground': hex(hex(colors.gray01), 0.2),
+      'scrollbarSlider.hoverBackground': hex(colors.gray01, 0.2),
 
       //////////////////////////////
       // BADGE
@@ -322,7 +322,7 @@ function getTheme({ theme, name }) {
       // Active Tab background color in an active group
       'tab.activeBackground': hex(colors.gray09),
       // Active Tab background color in an inactive editor group
-      'tab.unfocusedActiveBackground': hex(colors.gray09),
+      'tab.unfocusedActiveBackground': hex(colors.gray09, 0.3),
       // Active Tab foreground color in an active group
       'tab.activeForeground': hex(colors.gray01),
       // Border to separate Tabs from each other
@@ -364,9 +364,9 @@ function getTheme({ theme, name }) {
       // Inactive tab background color in an unfocused group
       'tab.unfocusedInactiveBackground': hex(colors.gray09),
       // Tab foreground color when hovering
-      'tab.hoverForeground': hex(hex(colors.gray01), 0.8),
+      'tab.hoverForeground': hex(colors.gray01, 0.8),
       // Tab foreground color in an unfocused group when hovering
-      'tab.unfocusedHoverForeground': hex(hex(colors.gray01), 0.8),
+      'tab.unfocusedHoverForeground': hex(colors.gray01, 0.8),
       // Border on the right of the last pinned editor to separate from unpinned editors.
       'tab.lastPinnedBorder': hex(hex(colors.gray02), 0.25),
 
@@ -521,7 +521,7 @@ function getTheme({ theme, name }) {
       // Color of the overview ruler border.
       'editorOverviewRuler.border': hex(colors.gray06),
       // Overview ruler marker color for find matches. The color must not be opaque so as not to hide underlying decorations.
-      'editorOverviewRuler.findMatchForeground': hex(hex(colors.gray01), 0.6),
+      'editorOverviewRuler.findMatchForeground': hex(colors.gray01, 0.6),
       // Overview ruler marker color for highlighted ranges, like by the Quick Open, Symbol in File and Find features. The color must not be opaque so as not to hide underlying decorations.
       // "editorOverviewRuler.rangeHighlightForeground": hex(colors.unknown),
       // Overview ruler marker color for selection highlights. The color must not be opaque so as not to hide underlying decorations.

@@ -1,0 +1,22 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "vscode/",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - vscode",
+			"detail": "node src/index.js && mkdir -p build"
+		},
+		{
+			"type": "npm",
+			"script": "start",
+			"path": "vscode/",
+			"problemMatcher": [],
+			"label": "npm: start - vscode",
+			"detail": "nodemon --watch src src/index.js"
+		}
+	]
+}
